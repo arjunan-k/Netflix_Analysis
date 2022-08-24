@@ -1,5 +1,6 @@
 # Netflix Exploratory Data Analysis
 This is an EDA or a Story Telling of Netflix through its data along with a small Content Based Recommendation System and a wide range of different Graphs and Visuals.
+Along with this IMDB & Books datasets are used to get more insights on the Netflix dataset.
 ## Table of Contents
 - #### Analysis of Movies vs TV Shows
 - #### Movie Ratings Analysis
