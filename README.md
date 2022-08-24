@@ -1,1 +1,1 @@
-# Netflix_Analysis
+# Netflix Exploratory Data Analysis
